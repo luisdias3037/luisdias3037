@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luis-dias/luis-dias/main/banner.svg" alt="Luis Dias Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/luisdias3037/luisdias3037/main/banner.svg" alt="Luis Dias Banner" width="100%"/>
 
 <br/>
 
@@ -94,11 +94,11 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Farias Br
 
 <div align="center">
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-dias&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3)
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisdias3037&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dias&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdias3037&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=luis-dias&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=luisdias3037&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
