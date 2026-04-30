@@ -1,1 +1,59 @@
-![Banner](banner.svg)
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="280" fill="#0d1117"/>
+ 
+  <g opacity="0.18" fill="#58a6ff">
+    <circle cx="560" cy="40"  r="1.8"/> <circle cx="560" cy="70"  r="1.8"/> <circle cx="560" cy="100" r="1.8"/> <circle cx="560" cy="130" r="1.8"/> <circle cx="560" cy="160" r="1.8"/> <circle cx="560" cy="190" r="1.8"/> <circle cx="560" cy="220" r="1.8"/>
+    <circle cx="596" cy="40"  r="1.8"/> <circle cx="596" cy="70"  r="1.8"/> <circle cx="596" cy="100" r="1.8"/> <circle cx="596" cy="130" r="1.8"/> <circle cx="596" cy="160" r="1.8"/> <circle cx="596" cy="190" r="1.8"/> <circle cx="596" cy="220" r="1.8"/>
+    <circle cx="632" cy="40"  r="1.8"/> <circle cx="632" cy="70"  r="1.8"/> <circle cx="632" cy="100" r="1.8"/> <circle cx="632" cy="130" r="1.8"/> <circle cx="632" cy="160" r="1.8"/> <circle cx="632" cy="190" r="1.8"/> <circle cx="632" cy="220" r="1.8"/>
+    <circle cx="668" cy="40"  r="1.8"/> <circle cx="668" cy="70"  r="1.8"/> <circle cx="668" cy="100" r="1.8"/> <circle cx="668" cy="130" r="1.8"/> <circle cx="668" cy="160" r="1.8"/> <circle cx="668" cy="190" r="1.8"/> <circle cx="668" cy="220" r="1.8"/>
+    <circle cx="704" cy="40"  r="1.8"/> <circle cx="704" cy="70"  r="1.8"/> <circle cx="704" cy="100" r="1.8"/> <circle cx="704" cy="130" r="1.8"/> <circle cx="704" cy="160" r="1.8"/> <circle cx="704" cy="190" r="1.8"/> <circle cx="704" cy="220" r="1.8"/>
+    <circle cx="740" cy="40"  r="1.8"/> <circle cx="740" cy="70"  r="1.8"/> <circle cx="740" cy="100" r="1.8"/> <circle cx="740" cy="130" r="1.8"/> <circle cx="740" cy="160" r="1.8"/> <circle cx="740" cy="190" r="1.8"/> <circle cx="740" cy="220" r="1.8"/>
+    <circle cx="776" cy="40"  r="1.8"/> <circle cx="776" cy="70"  r="1.8"/> <circle cx="776" cy="100" r="1.8"/> <circle cx="776" cy="130" r="1.8"/> <circle cx="776" cy="160" r="1.8"/> <circle cx="776" cy="190" r="1.8"/> <circle cx="776" cy="220" r="1.8"/>
+    <circle cx="812" cy="40"  r="1.8"/> <circle cx="812" cy="70"  r="1.8"/> <circle cx="812" cy="100" r="1.8"/> <circle cx="812" cy="130" r="1.8"/> <circle cx="812" cy="160" r="1.8"/> <circle cx="812" cy="190" r="1.8"/> <circle cx="812" cy="220" r="1.8"/>
+    <circle cx="848" cy="40"  r="1.8"/> <circle cx="848" cy="70"  r="1.8"/> <circle cx="848" cy="100" r="1.8"/> <circle cx="848" cy="130" r="1.8"/> <circle cx="848" cy="160" r="1.8"/> <circle cx="848" cy="190" r="1.8"/> <circle cx="848" cy="220" r="1.8"/>
+  </g>
+ 
+  <circle cx="632" cy="100" r="2.4" fill="#58a6ff" opacity="0.9"/>
+  <circle cx="668" cy="70"  r="2.4" fill="#58a6ff" opacity="0.9"/>
+  <circle cx="704" cy="130" r="2.4" fill="#79c0ff" opacity="0.9"/>
+  <circle cx="740" cy="100" r="2.4" fill="#58a6ff" opacity="0.9"/>
+  <circle cx="776" cy="160" r="2.4" fill="#79c0ff" opacity="0.9"/>
+  <circle cx="812" cy="130" r="2.4" fill="#58a6ff" opacity="0.9"/>
+  <circle cx="848" cy="70"  r="2.4" fill="#79c0ff" opacity="0.9"/>
+ 
+  <rect x="40" y="50" width="4" height="170" rx="2" fill="#58a6ff" opacity="0.8"/>
+ 
+  <circle cx="90" cy="104" r="38" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+  <text x="90" y="118" text-anchor="middle" font-size="30" font-family="serif">👨‍💻</text>
+ 
+  <text x="148" y="88" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#e6edf3">Luis</text>
+  <text x="236" y="88" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#58a6ff"> Dias</text>
+ 
+  <text x="150" y="110" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">@luis-dias · Fortaleza, CE 🇧🇷</text>
+ 
+  <text x="150" y="138" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" fill="#b1bac4">Estudante de Ciência da Computação apaixonado por Ciência de Dados</text>
+  <text x="150" y="158" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" fill="#b1bac4">e Lógica de Programação.</text>
+ 
+  <line x1="148" y1="174" x2="520" y2="174" stroke="#21262d" stroke-width="1"/>
+ 
+  <rect x="148" y="186" width="80" height="26" rx="5" fill="#1e3a5f" stroke="#58a6ff" stroke-width="0.8"/>
+  <text x="188" y="203" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#79c0ff">🐍 Python</text>
+ 
+  <rect x="238" y="186" width="68" height="26" rx="5" fill="#3d1a1a" stroke="#f78166" stroke-width="0.8"/>
+  <text x="272" y="203" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#ffa198">⚙️ C++</text>
+ 
+  <rect x="316" y="186" width="78" height="26" rx="5" fill="#152e25" stroke="#3fb950" stroke-width="0.8"/>
+  <text x="355" y="203" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#56d364">🐼 Pandas</text>
+ 
+  <rect x="404" y="186" width="76" height="26" rx="5" fill="#2a1f0f" stroke="#e3b341" stroke-width="0.8"/>
+  <text x="442" y="203" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#f0c060">🗄️ MySQL</text>
+ 
+  <rect x="490" y="186" width="84" height="26" rx="5" fill="#2a1e08" stroke="#d29922" stroke-width="0.8"/>
+  <text x="532" y="203" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#e3b341">📊 Power BI</text>
+ 
+  <rect x="0" y="260" width="900" height="20" fill="#161b22"/>
+  <text x="450" y="274" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11" fill="#8b949e">⚡ Centro Universitário Farias Brito · English Intermediate</text>
+ 
+  <rect x="0" y="276" width="900" height="4" fill="#58a6ff" opacity="0.6"/>
+</svg>
+ 
