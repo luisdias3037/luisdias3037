@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Luis Dias
+#  👨‍💻 Luis Dias
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Ci%C3%AAncia+de+Dados;L%C3%B3gica+de+Programa%C3%A7%C3%A3o+%26+Algoritmos)](https://git.io/typing-svg)
 
