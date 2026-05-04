@@ -94,7 +94,6 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Farias Br
 
 <div align="center">
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisdias3037&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdias3037&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
